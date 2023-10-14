@@ -1,6 +1,6 @@
 # Hi there, I'm Marika 👋
 
-- 🌱 I’m currently learning **through Founders and Coders foundation program**
+- 🌱 I’m currently learning through **Founders and Coders foundation program**
 
 - 📓 You can check my learning journey in this [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md)
 
