@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Marika 👋</h1>
 
+<h3 align="left">London-based software developer with experience in team management, visitor services, and collection management in museums, now crafting code.</h3>
+<br>
+
 - 🌱 I’m currently training as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
   
 - 👯 I’m currently learning on [Execute Program: concurrency](https://www.executeprogram.com/courses/javascript-concurrency)
@@ -7,10 +10,7 @@
 - 📓 You can check my learning journey in this [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md)
 
 - 👨‍💻 All of my projects are available on my [GitHub]
-
-
-### Background
-I'm an enthusiastic coder with a foundation in museum studies. Through my experiences, I've developed a robust skill set, emphasising collaboration, teamwork, leadership, effective communication, research, and practical problem-solving. These experiences have fostered a love for inclusive digital solutions.
+<br>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
