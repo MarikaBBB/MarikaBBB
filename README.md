@@ -12,8 +12,7 @@
 ### Background
 I'm an enthusiastic coder with a foundation in museum studies. Through my experiences, I've developed a robust skill set, emphasising collaboration, teamwork, leadership, effective communication, research, and practical problem-solving. These experiences have fostered a love for inclusive digital solutions.
 
-
-## 🛠️ Languages and Tools:
+<h2 align="left">🛠️ Languages and Tools:</h2>
 
  <table>
   <tr>
@@ -38,11 +37,10 @@ I'm an enthusiastic coder with a foundation in museum studies. Through my experi
       <a href="https://aws.amazon.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40" /></a>
    </td>
-  </tr>
+    </tr>
 </table>
 
 <table>
-  <tr>
     <th colspan="3">Web Development</th>
   </tr>
   <tr>
@@ -64,7 +62,7 @@ I'm an enthusiastic coder with a foundation in museum studies. Through my experi
 </table>
 <br>
 
-<h3 align="left">📫 How to reach me:</h3>
+<h2 align="left">📫 How to reach me:</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/marika-bert/" target="_blank" style="text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marika bert" height="30" width="30" style="vertical-align: middle;">
