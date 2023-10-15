@@ -1,4 +1,4 @@
-# Hi there, I'm Marika 👋
+<h1 align="center">Hi there, I'm Marika 👋</h1>
 
 - 🌱 I’m currently training as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
   
@@ -6,7 +6,7 @@
 
 - 📓 You can check my learning journey in this [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md)
 
-- 👨‍💻 All of my projects are available [right here!]
+- 👨‍💻 All of my projects are available on my [GitHub]
 
 
 ### Background
