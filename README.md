@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Marika 👋</h1>
 
-<h3 align="left">London-based software developer with experience in team management, visitor services, and collection management in museums, now crafting code.</h3>
+<h4 align="left">London-based software developer with experience in team management, visitor services, and collection management in museums, now crafting code.</h4>
 <br>
 
 - 🌱 I’m currently training as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
@@ -18,7 +18,7 @@
   <tr>
     <th>Languages</th>
     <th>Tools</th>
-   <th>Tools</th>
+   <th>Other</th>
   </tr>
   <tr>
     <td>
