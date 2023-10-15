@@ -1,7 +1,5 @@
 <h1 align="center">Hi there, I'm Marika 👋</h1>
 
-<h4 align="left">London-based software developer with experience in team management, visitor services, and collection management in museums, now crafting code.</h4>
-<br>
 
 - 🌱 I’m currently training as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
   
@@ -10,6 +8,8 @@
 - 📓 You can check my learning journey in this [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md)
 
 - 👨‍💻 All of my projects are available on my [GitHub]
+  
+- 🏛️ **Background**: I hold a master's degree in History of Art, and with over five years of hands-on experience in the dynamic London museum sector, I've honed a unique skill set that spans from visitor services, leadership, archives, to collection management. I'm now crafting code, leveraging my diverse background to create innovative solutions with a strong commitment to accessibility and inclusion.
 <br>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
