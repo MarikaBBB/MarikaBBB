@@ -65,12 +65,13 @@
 <h2 align="left">📫 How to reach me:</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/marika-bert/" target="_blank" style="text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marika bert" height="30" width="30" style="vertical-align: middle;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marika bert" height="40" width="40" style="vertical-align: middle; margin-right: 20px;">
   </a>
   <a href="mailto:bertellimarika87@gmail.com" style="text-decoration: none; vertical-align: top;">
-    <img src="https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png" alt="Gmail logo" height="30" width="45">
+    <img src="https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png" alt="Gmail logo" height="40" width="55">
   </a>
 </div>
+
 <br>
 
 I'm open to collaboration, networking, and discussing exciting opportunities. Don't hesitate to reach out if you have any questions or just want to connect.
