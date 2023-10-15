@@ -7,9 +7,9 @@
 
 - 📓 You can check my learning journey in this [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md)
 
-- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/MarikaBBB?tab=repositories&q=&type=&language=&sort=stargazers)
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/MarikaBBB?tab=repositories&q=&type=&language=&sort=stargazers) repository.
   
-- 🏛️ **Background**: I hold a master's degree in History of Art, and with over five years of hands-on experience in the dynamic London museum sector, I've honed a unique skill set that spans from visitor services, leadership, archives, to collection management.
+- 🏛️ **Background**: I hold a master's degree in the History of Art, and with over five years of hands-on experience in the dynamic London museum sector, I've held diverse roles ranging from visitor services, leadership, archives, to collection management.
 
 - 🌟 I'm now crafting code, leveraging my diverse background to create innovative solutions with a strong commitment to accessibility and inclusion.
 <br>
