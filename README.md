@@ -3,13 +3,15 @@
 
 - 🌱 I’m currently training as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
   
-- 👯 I’m currently learning on [Execute Program: concurrency](https://www.executeprogram.com/courses/javascript-concurrency)
+- 🧠 I’m currently learning on [Execute Program: concurrency](https://www.executeprogram.com/courses/javascript-concurrency)
 
 - 📓 You can check my learning journey in this [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md)
 
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/MarikaBBB?tab=repositories&q=&type=&language=&sort=stargazers)
   
-- 🏛️ **Background**: I hold a master's degree in History of Art, and with over five years of hands-on experience in the dynamic London museum sector, I've honed a unique skill set that spans from visitor services, leadership, archives, to collection management. I'm now crafting code, leveraging my diverse background to create innovative solutions with a strong commitment to accessibility and inclusion.
+- 🏛️ **Background**: I hold a master's degree in History of Art, and with over five years of hands-on experience in the dynamic London museum sector, I've honed a unique skill set that spans from visitor services, leadership, archives, to collection management.
+
+- 🌟 I'm now crafting code, leveraging my diverse background to create innovative solutions with a strong commitment to accessibility and inclusion.
 <br>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
