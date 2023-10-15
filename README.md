@@ -1,6 +1,8 @@
 # Hi there, I'm Marika 👋
 
-- 🌱 I’m currently learning through **Founders and Coders** foundation program.
+- 🌱 I’m currently training as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
+  
+- 👯 I’m currently learning on [Execute Program: concurrency](https://www.executeprogram.com/courses/javascript-concurrency)
 
 - 📓 You can check my learning journey in this [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md)
 
@@ -12,61 +14,66 @@ I'm an enthusiastic coder with a foundation in museum studies. Through my experi
 
 
 ## 🛠️ Languages and Tools:
- <table><tr>
- <td valign="top" width="33%">
-    <div align="center">  
-      <h4>Languages</h4>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-     </div>
-  </td>
- </tr>
- </table>
 
-<table><tr>
-  <td valign="top" width="48%">
-    <div align="center">  
-      <h4>Web Development</h4>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    </div>
-  </td>
-</tr>
-</table>
-
-  <table><tr>
-  <td valign="top" width="22%">
-    <div align="center">
-      <h4>Tools</h4>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    </div>
-  </td>
+ <table>
+  <tr>
+    <th>Languages</th>
+    <th>Tools</th>
+   <th>Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="40" width="40" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="40" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://code.visualstudio.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="40" width="40" /></a>
+      <a href="https://git-scm.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="40" width="40" /></a>
+    </td>
+   <td>
+      <a href="https://aws.amazon.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40" /></a>
+   </td>
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th colspan="3">Web Development</th>
+  </tr>
+  <tr>
+    <th>Front-End</th>
+    <th>Back-End</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" height="40" width="40" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" height="40" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://nodejs.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40" /></a>
+    </td>
+  </tr>
+</table>
 <br>
 
-## 🔥 Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MarikaBBB)](https://git.io/streak-stats)
-
-## 📫 How to reach me:
-
-<div class="icon-container">
-  <a href="https://www.linkedin.com/in/marika-bert/" class="icon-link">
-    <img src="https://user-images.githubusercontent.com/112886847/221992204-4ad81986-70c9-4877-83af-7fbc636ea932.png" alt="LinkedIn logo" width="70rem">
+<h3 align="left">📫 How to reach me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/marika-bert/" target="_blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marika bert" height="30" width="30" style="vertical-align: middle;">
   </a>
-
-  <a href="mailto:bertellimarika87@gmail.com" class="icon-link">
-    <img href="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg"><img width="70rem" alt="Gmail icon (2020)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png">
+  <a href="mailto:bertellimarika87@gmail.com" style="text-decoration: none; vertical-align: top;">
+    <img src="https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png" alt="Gmail logo" height="30" width="45">
   </a>
-</div>                                                             
-
-
+</div>
 <br>
-
-
 
 I'm open to collaboration, networking, and discussing exciting opportunities. Don't hesitate to reach out if you have any questions or just want to connect.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
