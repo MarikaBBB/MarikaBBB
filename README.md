@@ -7,7 +7,7 @@
 
 - 📓 You can check my learning journey in this [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md)
 
-- 👨‍💻 All of my projects are available on my [GitHub]([https://github.com/MarikaBBB?tab=repositories&q=&type=&language=&sort=stargazers](https://github.com/stars/MarikaBBB/lists/projects)) repository.
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/stars/MarikaBBB/lists/projects) repository.
   
 - 🏛️ **Background**: I hold a master's degree in the History of Art, and with over five years of hands-on experience in the dynamic London museum sector, I've held diverse roles ranging from visitor services, leadership, archives, to collection management.
 
