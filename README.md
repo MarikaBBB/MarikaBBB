@@ -100,9 +100,9 @@ I'm open to collaboration, networking, and discussing exciting opportunities. Do
 <br>
 
 <h2 align="left">✨ GitHub Stats ✨:</h2>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MarikaBBB&" alt="Marikabbb" /></p> 
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MarikaBBB&show_icons=true&locale=en" alt="MarikaBBB" /></p>
+
+<p style="margin-button="20px;">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MarikaBBB&show_icons=true&locale=en" alt="MarikaBBB" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarikaBBB&" alt="Marikabbb" /></p> 
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
