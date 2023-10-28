@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/stars/MarikaBBB/lists/projects) repository.
   
+- 💻 View my [portfolio website](https://marikabbb.github.io/Portfolio-website/) built with JavaScript.
+  
 - 🏛️ **Background**: I hold a master's degree in the History of Art, and with over five years of hands-on experience in the dynamic London museum sector, I've held diverse roles ranging from visitor services, leadership, archives, to collection management.
 
 - 🌟 I'm now crafting code, leveraging my diverse background to create innovative solutions with a strong commitment to accessibility and inclusion.
