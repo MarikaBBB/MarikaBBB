@@ -1,3 +1,13 @@
+<div id="header" align='center'>
+        <img src="https://media0.giphy.com/media/IOaLEhOlGiuwDRqgul/giphy.gif?cid=ecf05e47z9wkekxpeglaw9n6699ex7t5y9zbtnv8zyh47zpe&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250"/>
+    </div>
+<div id="badges" align='center'>
+    <a href="https://www.linkedin.com/in/marika-bert/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
+
+
 <h1 align="center">Hi there, I'm Marika 👋</h1>
 
 
