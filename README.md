@@ -7,9 +7,12 @@
     </a>
 </div>
 
+<div align="center"> 
+<h1 align="center", font-size: "4em">Hi there, I'm Marika 👋</h1>
+</div>
 
-<h1 align="center">Hi there, I'm Marika 👋</h1>
-
+<br>
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🌱 I’m currently training as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
   
