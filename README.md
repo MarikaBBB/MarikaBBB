@@ -16,74 +16,89 @@
 - 🌟 I'm now crafting code, leveraging my diverse background to create innovative solutions with a strong commitment to accessibility and inclusion.
 <br>
 
-<h2 align="left">🛠️ Languages and Tools:</h2>
+<h2 align="center">🛠️ Languages and Tools:</h2>
 <div style="display: flex; justify-content: space-between;"> 
 
-  <!-- First table -->
- <div style="flex: 1; style="margin-right: 20px;">  
-    <table>
-      <tr>
-        <th>Languages</th>
-        <th>Tools</th>
-        <th>Other</th>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://www.python.org/">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="40" width="40" />
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="40" width="40" />
-          </a>
-        </td>
-        <td>
-          <a href="https://code.visualstudio.com/">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" height="40" width="40" />
-          </a>
-          <a href="https://git-scm.com/">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" height="40" width="40" />
-          </a>
-        </td>
-        <td>
-          <a href="https://aws.amazon.com/">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="40" />
-          </a>
-        </td>
-      </tr>
-    </table>
-    </div>
-  
+<table width="100%"align="center">
+  <tr>
+    <!-- Left Table -->
+    <td valign="top" width="50%">
+      <table>
+        <tr>
+          <th colspan="2">Web Development</th>
+        </tr>
+        <tr>
+          <td>Languages</td>
+          <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+            </a>
+            <a href="https://www.python.org" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>Frontend</td>
+          <td>
+            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+            </a>
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>Backend</td>
+          <td>
+            <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Right Table -->
+    <td valign="top" width="50%">
+      <table>
+        <tr>
+          <th colspan="2">Others</th>
+        </tr>
+        <tr>
+          <td>Version Control</td>
+          <td>
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+              <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+            </a>
+            <a href="https://github.com/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>Editors</td>
+          <td>
+            <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="40" height="40"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>Cloud</td>
+          <td>
+            <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+              <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Amazon Web Services" height="40" width="40"/>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-  <!-- Second table -->
-<div style="flex: 1;">
-    <table>
-      <tr>
-        <th colspan="3">Web Development</th>
-      </tr>
-      <tr>
-        <th>Front-End</th>
-        <th>Back-End</th>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Reference">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" height="40" width="40" />
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" height="40" width="40" />
-          </a>
-        </td>
-        <td>
-          <a href="https://nodejs.org/">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40" />
-          </a>
-        </td>
-      </tr>
-    </table>
-    </div>
- </div>  
+</div>
 <br>
-
 
 <h2 align="left">📫 How to reach me:</h2>
 <div align="left">
@@ -96,15 +111,15 @@
 </div>
 
 <br>
-
 I'm open to collaboration, networking, and discussing exciting opportunities. Don't hesitate to reach out if you have any questions or just want to connect.
 
 <br>
 
-<h2 align="left">✨ GitHub Stats ✨:</h2>
-
+<h2 align="center">✨ GitHub Stats ✨:</h2>
+<div align="center">
 <p style="margin-button="20px;">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=MarikaBBB&show_icons=true&locale=en" alt="MarikaBBB" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarikaBBB&" alt="Marikabbb" /></p> 
+</div>
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
