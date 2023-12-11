@@ -16,7 +16,7 @@
 <br>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🌱 I’m currently training as a Software Developer at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
+- 🌱 I’m currently training as a Full Stack Software Developement at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
   
 - 🧠 I’m currently learning on [Execute Program: concurrency](https://www.executeprogram.com/courses/javascript-concurrency)
 
