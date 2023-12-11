@@ -2,7 +2,7 @@
         <img src="https://media0.giphy.com/media/IOaLEhOlGiuwDRqgul/giphy.gif?cid=ecf05e47z9wkekxpeglaw9n6699ex7t5y9zbtnv8zyh47zpe&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="250"/>
     </div>
 <div id="badges" align='center'>
-        <a href="https://discord.com/channels/1178985939318620220/1178985939318620224">
+        <a href="https://discord.gg/D2eeJaRF">
                 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     <a href="https://www.linkedin.com/in/marika-bert/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
