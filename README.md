@@ -18,7 +18,8 @@
 
 - 🌱 I’m currently training as a Full Stack Software Developement at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
   
-- 🧠 I’m currently learning on [Execute Program: concurrency](https://www.executeprogram.com/courses/javascript-concurrency)
+- 🧠 I’m currently learning on [Execute Program: concurrency](https://www.executeprogram.com/courses/javascript-concurrency) and [SQL](https://www.executeprogram.com/courses/sql)
+  
 
 - 📓 You can check my learning journey in this [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md)
 
