@@ -29,8 +29,10 @@
   
 - 🏛️ **Background**: I hold a master's degree in the History of Art, and with over five years of hands-on experience in the dynamic London museum sector, I've held diverse roles ranging from visitor services, leadership, archives, to collection management.
 
-- 🌟 I'm now crafting code, leveraging my diverse background to create innovative solutions with a strong commitment to accessibility and inclusion.
+- 🌟 I love coding because it's like painting with technology, where I can bring my ideas to life in ways not possible in the physical world. Transitioning from the museum field, I'm drawn to the practicality of coding, solving problems and experiencing the rush of creating solutions that improve lives through technology.
+  <!-- I'm now crafting code, leveraging my diverse background to create innovative solutions with a strong commitment to accessibility and inclusion.-->
 <br>
+
 
 <h2 align="center">🛠️ Languages and Tools:</h2>
 <div style="display: flex; justify-content: space-between;"> 
