@@ -74,6 +74,15 @@
               <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
             </a>
           </td>
+                   <tr>
+          <td>Databases</td>
+          <td>
+            <!-- ... icons ... -->
+             <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+        <img src="https://ojt.com/wp-content/uploads/2021/08/sql.png" alt="SQL" width="50" height="50"/>
+      </a>
+          </td>
+        </tr>
         </tr>
       </table>
     </td>
