@@ -16,16 +16,15 @@
 <br>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🌱 Completed full-stack developer training at [Founders and Coders (FAC)](https://www.foundersandcoders.com/), cohort FAC29.
+- 🌱 I completed the software developer foundation training at [Founders and Coders (FAC)](https://www.foundersandcoders.com/), cohort FAC29.
   
 - 🧠 Currently, I am enhancing my skills in [concurrency](https://www.executeprogram.com/courses/javascript-concurrency) and [SQL](https://www.executeprogram.com/courses/sql) through Execute Program.
   
-
 - 📓 My learning journey is documented in my [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md).
 
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/stars/MarikaBBB/lists/projects) repository.
   
-- 💻 You can view my portfolio website, built with JavaScript, [here](https://marikabbb.github.io/Portfolio-website/).
+- 💻 You can view my website, built with JavaScript, [here](https://marikabbb.github.io/Portfolio-website/).
   
 - 🏛️ **Background**: I hold a master's degree in the History of Art and have over five years of experience in the London museum sector. My roles have included visitor services, leadership, archives, and collection management.
 
