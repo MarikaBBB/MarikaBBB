@@ -16,20 +16,20 @@
 <br>
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🌱 I’m currently training as a Full Stack Software Developement at [Founders and Coders (FAC)](https://www.foundersandcoders.com/)
+- 🌱 Completed full-stack developer training at [Founders and Coders (FAC)](https://www.foundersandcoders.com/), cohort FAC29.
   
-- 🧠 I’m currently learning on [Execute Program: concurrency](https://www.executeprogram.com/courses/javascript-concurrency) and [SQL](https://www.executeprogram.com/courses/sql)
+- 🧠 Currently, I am enhancing my skills in [concurrency](https://www.executeprogram.com/courses/javascript-concurrency) and [SQL](https://www.executeprogram.com/courses/sql) through Execute Program.
   
 
-- 📓 You can check my learning journey in this [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md)
+- 📓 My learning journey is documented in my [portfolio](https://github.com/FAC29A/Marika_Portfolio/blob/main/README.md).
 
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/stars/MarikaBBB/lists/projects) repository.
   
-- 💻 View my [portfolio website](https://marikabbb.github.io/Portfolio-website/) built with JavaScript.
+- 💻 You can view my portfolio website, built with JavaScript, [here](https://marikabbb.github.io/Portfolio-website/).
   
-- 🏛️ **Background**: I hold a master's degree in the History of Art, and with over five years of hands-on experience in the dynamic London museum sector, I've held diverse roles ranging from visitor services, leadership, archives, to collection management.
+- 🏛️ **Background**: I hold a master's degree in the History of Art and have over five years of experience in the London museum sector. My roles have included visitor services, leadership, archives, and collection management.
 
-- 🌟 I love coding because it's like painting with technology, where I can bring my ideas to life in ways not possible in the physical world. Transitioning from the museum field, I'm drawn to the practicality of coding, solving problems and experiencing the rush of creating solutions that improve lives through technology.
+- 🌟 Coding is my passion because it allows me to bring my ideas to life in ways not possible in the physical world. Transitioning from the museum field, I am captivated by the practicality of coding, solving problems, and the thrill of creating solutions that improve lives through technology.
   <!-- I'm now crafting code, leveraging my diverse background to create innovative solutions with a strong commitment to accessibility and inclusion.-->
 <br>
 
