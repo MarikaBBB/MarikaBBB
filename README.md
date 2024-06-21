@@ -28,7 +28,7 @@
   
 - 🏛️ **Background**: Master's in History of Art with 5+ years in London museums. Diverse roles in visitor services, leadership, archives, and collection management developed key transferable skills, including:
 
-- **Attention to detail**      - **Project management**      - **Communication**      - **Leadership**      - **Adaptability**
+- **Attention to detail** – **Project management** – **Communication** – **Leadership** – **Adaptability**
 
 - 🌟 Transitioning from the museum field to software development, I've discovered a passion for coding that allows me to bring ideas to life in innovative ways. I'm captivated by the practical problem-solving aspects of programming and its potential to create impactful solutions. To me, coding is like painting on a digital canvas - a powerful tool for creativity and innovation. Committed to continuous learning, I'm eager to apply my skills to make a positive difference in the world, solving real-world problems and building technologies that can improve people's lives.
 <br>
