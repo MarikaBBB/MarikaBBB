@@ -26,10 +26,9 @@
   
 - 💻 You can view my website, built with JavaScript, [here](https://marikabbb.github.io/Portfolio-website/).
   
-- 🏛️ **Background**: I hold a master's degree in the History of Art and have over five years of experience in the London museum sector. My roles have included visitor services, leadership, archives, and collection management.
+- 🏛️ **Background**: Master's degree in History of Art with over five years of experience in the London museum sector, encompassing roles in visitor services, leadership, archives, and collection management.
 
-- 🌟 Coding is my passion because it allows me to bring my ideas to life in ways not possible in the physical world. Transitioning from the museum field, I am captivated by the practicality of coding, solving problems, and the thrill of creating solutions that improve lives through technology.
-  <!-- I'm now crafting code, leveraging my diverse background to create innovative solutions with a strong commitment to accessibility and inclusion.-->
+- 🌟 Transitioning from the museum field to software development, I've discovered a passion for coding that allows me to bring ideas to life in innovative ways. I'm captivated by the practical problem-solving aspects of programming and its potential to create impactful solutions. To me, coding is like painting on a digital canvas - a powerful tool for creativity and innovation. Committed to continuous learning, I'm eager to apply my skills to make a positive difference in the world, solving real-world problems and building technologies that can improve people's lives.
 <br>
 
 
